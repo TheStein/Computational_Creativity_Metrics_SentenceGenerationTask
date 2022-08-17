@@ -1,5 +1,3 @@
-# Computational_Creativity_Metrics_SentenceGenerationTask
-
 Please refer to the original publication that describes this project: 
 
 "What's creative about sentences? A computational approach to assessing creativity in a sentence generation task." 
